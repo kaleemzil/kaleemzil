@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **REACT,MONGODB,TYPE.JS,NEXT.JS,EXPRESS.JS**
 
-- 📫 How to reach me **kaleemullahuqrashi29@gmail.com**
+- 📫 How to reach me **kaleemullahqurashi29@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/classic/Downloads/kaleemullah%20cv.pdf](file:///C:/Users/classic/Downloads/kaleemullah%20cv.pdf)
+- 📄 Know about my experiences with my github account the link is 
 
 - ⚡ Fun fact **I THINK I AM ENERGETIC**
 
