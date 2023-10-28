@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kaleemullahqurashi29@gmail.com**
 
-- 📄 Know about my experiences with my github account the link is 
+- 📄 Know about my experiences with my github account the link is https://github.com/kaleemzil/kaleemzil.git
 
 - ⚡ Fun fact **I THINK I AM ENERGETIC**
 
